@@ -8,6 +8,7 @@ import android.widget.Toast;
 
 public class ForgotPassword extends AppCompatActivity {
 
+    //This is a test change
     EditText usernameRecovery;
     EditText pinRecovery;
 
